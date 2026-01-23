@@ -1,23 +1,22 @@
-# 👋 Olá! Sou Estudante de Cloud Computing ☁️
+# Cloud Computing student ☁️
 
-Sou entusiasta de tecnologias em nuvem e estou em processo de formação na área de engenharia de nuvem. Aqui no GitHub, compartilho meus projetos de estudo, laboratórios práticos e experiências com ferramentas de automação, infraestrutura como código e ambientes em nuvem.
+I am a cloud technology enthusiast and currently in the process of training in the field of cloud engineering. Here on GitHub, I share my study projects, hands-on labs, and experiences with automation tools, infrastructure as code, and cloud environments.
 
-## 📚 Atualmente estudando:
+## 📚 Current learning:
 
-- Fundamentos de Cloud (AWS, Azure, Huawei Cloud)
-- Infraestrutura como Código (Terraform, Ansible)
-- Contêineres e Virtualização (Docker, VMware, Kubernetes)
-- Redes, segurança e automação com scripts (Shell Script, Powershell)
-- Monitoramento com Prometheus e Grafana
+- Providers (AWS, Huawei Cloud)
+- IaC (Terraform, Vagrant, Ansible)
+- Containers (Docker, Kubernetes)
+- Languages (Shell Script, Python, Rust, Go)
+- Monitoring (Prometheus, Grafana)
 
-## 💡 O que você vai encontrar aqui:
+## 💡 You will find here:
 
-- Repositórios com laboratórios práticos de cloud
-- Templates e exemplos de IaC
-- Projetos de estudo com foco em boas práticas
-- Configurações para ambientes Linux, CI/CD e containers
+- Repositories filled with practical labs on cloud
+- IaC templates and examples
+- Configuration in Linux environmentes, CI/CD.
 
-## ⚙️ Ferramentas que estou explorando:
+## ⚙️ Tools that i am into:
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -25,10 +24,8 @@ Sou entusiasta de tecnologias em nuvem e estou em processo de formação na áre
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🌐 Vamos nos conectar?
+## 🌐 Would you like to get in touch with me?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-morais-correia-0abb94277)
 
 ---
-
-📌 *Este perfil é o meu caderno de práticas em nuvem. Fique à vontade para acompanhar minha evolução!*
