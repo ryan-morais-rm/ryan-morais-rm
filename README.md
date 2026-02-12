@@ -1,4 +1,4 @@
-# Cloud computing student ☁️
+# Cloud & DevOps student ☁️
 
 I am a cloud technology enthusiast and currently in the process of training in the field of cloud engineering. Here on GitHub, I share my study projects, hands-on labs, and experiences with automation tools, infrastructure as code, and cloud environments.
 
@@ -6,13 +6,15 @@ I am a cloud technology enthusiast and currently in the process of training in t
 - Repositories filled with practical labs on cloud
 - IaC templates and examples
 - Configuration in Linux environmentes, CI/CD.
+  
+## 🔨 Favorite tools:
+- VsCodium, Vim, Git, Bash
 
 ## 📚 Current learning:
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,ansible,python,go,githubactions,jenkins,git,prometheus,grafana&perline=10&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,docker,terraform,ansible,python,rust,go,githubactions,jenkins,prometheus,grafana&perline=10&theme=dark" alt="Tech Stack" />
 
-## 🔨 Favorite tools:
-<img src="https://skillicons.dev/icons?i=linux,vscodium,vim,bash,rust,docker&perline=10&theme=dark" alt="Tech Stack" />
-
+## 🐱 GitHub Journey
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryan-morais-rm&theme=black-ice&hide_border=false)
 
 ## 🌐 Would you like to get in touch with me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-morais-correia-0abb94277)
