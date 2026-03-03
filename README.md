@@ -1,4 +1,4 @@
-# Cloud & DevOps student ☁️
+# ☁️ Cloud & DevOps engineer
 
 I am a cloud technology enthusiast and currently in the process of training in the field of cloud engineering. Here on GitHub, I share my study projects, hands-on labs, and experiences with automation tools, infrastructure as code, and cloud environments.
 
